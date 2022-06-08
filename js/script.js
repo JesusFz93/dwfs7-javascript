@@ -8,6 +8,7 @@ function suma(number1, number2) {
 }
 
 suma(numero1, numero2);
+// COMENTARIO PARA GITHUB
 
 // funcion con un argumento
 function saludo(nombre, edad) {
